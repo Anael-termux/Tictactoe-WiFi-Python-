@@ -1,0 +1,8 @@
+mira 
+modifica el archivo "server" y pon la ip del servidor o computadora que usarás por ejemplo "HOST = "192.168.1.2" cambiala por la ip de tu pc
+ejecuta el script del servidor 
+y ahora modifica el "clientexo" ejemplo 
+HOST = "192.168.1.2"  # IP del servidor
+ejecuta el archivo "clientexo"
+y listo  puedes jugar con tu amigo 
+puedes ver tu ip con windows ipconfig/ linux ifconfig 
